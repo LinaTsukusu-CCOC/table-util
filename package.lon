@@ -1,0 +1,12 @@
+{
+    author = "LinaTsukusu",
+    name = "table-util",
+    description = "",
+    repository = "LinaTsukusu-CCOC/table-util",
+    version = "1.0.0",
+    files = {
+        "table-util.lua"
+    },
+    dependencies = {
+    },
+}
